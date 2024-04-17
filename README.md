@@ -9,7 +9,7 @@
 <body>
     <h1>Eduardo</h1>
     <p>Eduardo Bastos de Oliveira<br/>26/06/2007<br/>Campinas SP</p>
-    <p>Atualemente cursando: Senai Euryclides de Jesus Zerbini (DS), Etec Bento Quirino (DS), Julio Mesquita (ensino médio)</p>
+    <p>Atualmente cursando: Senai Euryclides de Jesus Zerbini (DS), Etec Bento Quirino (DS), Julio Mesquita (ensino médio)</p>
     <p>Desenvolvedor de Sistemas</p>
 </body>
 </html>
