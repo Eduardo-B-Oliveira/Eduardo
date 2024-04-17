@@ -1,2 +1,2 @@
 # Eduardo
-Eduardo Bastos de Oliveira
+Um pouco sobre mim
